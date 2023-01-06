@@ -8,6 +8,11 @@ html {
   box-sizing: inherit;
 }
 
+body {
+  background-image: url('assets/math 1.png');
+  background-size: cover;
+}
+
 .calculator {
   background-color: black;
   padding:20px;
